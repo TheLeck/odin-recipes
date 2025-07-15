@@ -1,0 +1,18 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+h1 {
+    font-size: 48px;
+}
+
+ul {
+    display: inline-block;
+    margin: auto;
+    font-size: 24px;
+}
+
+li {
+    padding: 5px;
+}
